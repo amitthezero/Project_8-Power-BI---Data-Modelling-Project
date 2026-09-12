@@ -4,7 +4,7 @@
 
 This project demonstrates the process of transforming a **raw and complex Power BI data model into a clean, structured, and scalable analytical model**.
 
-The primary objective was to understand the source data, identify business entities and events, define the correct grain, build dimensions and fact tables, establish appropriate relationships, and prepare the model for reliable reporting and analysis.
+The primary objective was to understand the source data, identify business entities and events, define the correct grain, build dimensions and fact tables, establish appropriate relationships, and prepare the model for reliable reporting and analysis..
 
 ---
 
